@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(232, 240, 197);
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    margin: 2% 10%;
+}
+
+h1,
+h2,
+p,
+figure {
+    text-align: center;
+}
+
+p {
+    font: monospace;
+}
+img {
+    width: 100%;
+}
+
+.title {
+    font-size: 23px;
+    /* margin-bottom: -15px; */
+}
+
+ul {
+    margin: 30px 70px;
+    background-color: rgb(225, 252, 183);
+}
+
+li {
+    font-size: 15px;
+    line-height: 30px;
+    padding: 0 25px 0 0;
+    text-align: justify;
+}
+
+.data {
+    font-weight: bold;
+}
+
+footer {
+    flex-direction: row;
+}
